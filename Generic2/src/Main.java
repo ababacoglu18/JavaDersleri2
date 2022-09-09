@@ -1,7 +1,7 @@
 public class Main {
 
 
-        public static <A extends Aday> A birinci(A a1, A a2){
+        public static <A extends Aday> A birinci(A a1, A a2){  //Yazim Metodu Onemli.
 
 
             if( a1.puanHesapla() > a2.puanHesapla()){
