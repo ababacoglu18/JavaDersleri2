@@ -19,7 +19,7 @@ public class Window {
         frame.setLayout(null);
         frame.setVisible(true);
 
-        
+
 
 
 
