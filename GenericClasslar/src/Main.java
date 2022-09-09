@@ -20,6 +20,21 @@ public class Main {
             StringYazdir.yazdir(string_dizi);
             OgrenciYazdir.yazdir(ogrencidizi);
 
+        System.out.println("*******************************************************************");
+
+
+        //Oncesi Generic Class kullanmadigimiz hali.
+        //Generic ile tek classta sorunu çözebiliyoruz.
+        //Generic class Primitive value tutmaz!
+        
+
+
+        GenericYazdir<Character> yazdir_char = new GenericYazdir<Character>();
+        GenericYazdir<String> yazdir_string = new GenericYazdir<String>();
+        GenericYazdir<Integer> yazdir_int = new GenericYazdir<Integer>();
+
+
+
 
     }
 }
