@@ -26,15 +26,24 @@ public class Main {
         //Oncesi Generic Class kullanmadigimiz hali.
         //Generic ile tek classta sorunu çözebiliyoruz.
         //Generic class Primitive value tutmaz!
-        
+        //Sadece GenericYazdir Class'ina bakman yeterli.
 
 
         GenericYazdir<Character> yazdir_char = new GenericYazdir<Character>();
         GenericYazdir<String> yazdir_string = new GenericYazdir<String>();
         GenericYazdir<Integer> yazdir_int = new GenericYazdir<Integer>();
 
+        yazdir(char1);
+        yazdir(string_dizi);
+        yazdir(integer_dizi);
+        yazdir(ogrencidizi);
+    }
+    //main içinde Generic kullanımı
+    public static <E> void yazdir ( E[] dizi){
+        for (E e: dizi){
 
-
+            System.out.println(e);
+        }
 
     }
 }
