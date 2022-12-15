@@ -6,6 +6,7 @@ public class Main {
 
         HashMap<Integer, String> hashMap = new HashMap<Integer,String>();
         hashMap.put(10,"Java");
+        //.
 
 
 
