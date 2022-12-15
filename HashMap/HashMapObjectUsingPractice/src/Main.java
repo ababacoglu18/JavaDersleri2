@@ -22,9 +22,17 @@ public class Main {
     }
 
 
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
 
-   public void main(String[] args) {
+    public void main(String[] args) {
 
 
 
