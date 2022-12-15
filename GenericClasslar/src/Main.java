@@ -14,7 +14,7 @@ public class Main {
 
         Ogrenci[] ogrencidizi = {new Ogrenci("Mustafa"), new  Ogrenci("Ahmet"), new Ogrenci("Selim")};
 
-
+          //fff
             CharYazdir.yazdir(char1);
             IntYazdir.yazdir(integer_dizi);
             StringYazdir.yazdir(string_dizi);

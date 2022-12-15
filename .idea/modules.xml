@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrrays/Arrrays.iml" filepath="$PROJECT_DIR$/Arrrays/Arrrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Beyblade/Beyblade.iml" filepath="$PROJECT_DIR$/Beyblade/Beyblade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic2/Generic2.iml" filepath="$PROJECT_DIR$/Generic2/Generic2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" filepath="$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HafizaOyunu/HafizaOyunu.iml" filepath="$PROJECT_DIR$/HafizaOyunu/HafizaOyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClasslarProblemler/InnerClasslarProblemler.iml" filepath="$PROJECT_DIR$/InnerClasslarProblemler/InnerClasslarProblemler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" filepath="$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" filepath="$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SehirTuru/SehirTuru.iml" filepath="$PROJECT_DIR$/SehirTuru/SehirTuru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foreach/foreach.iml" filepath="$PROJECT_DIR$/foreach/foreach.iml" />
+    </modules>
+  </component>
+</project>
