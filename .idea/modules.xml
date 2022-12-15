@@ -8,12 +8,14 @@
       <module fileurl="file://$PROJECT_DIR$/Generic2/Generic2.iml" filepath="$PROJECT_DIR$/Generic2/Generic2.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" filepath="$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" />
       <module fileurl="file://$PROJECT_DIR$/HafizaOyunu/HafizaOyunu.iml" filepath="$PROJECT_DIR$/HafizaOyunu/HafizaOyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HarfFrekansiBulmakMap/HarfFrekansiBulmakMap.iml" filepath="$PROJECT_DIR$/HarfFrekansiBulmakMap/HarfFrekansiBulmakMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMapObjectUsingPractice/HashMapObjectUsingPractice.iml" filepath="$PROJECT_DIR$/HashMap/HashMapObjectUsingPractice/HashMapObjectUsingPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashsetDif/HashsetDif.iml" filepath="$PROJECT_DIR$/HashsetDif/HashsetDif.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClasslarProblemler/InnerClasslarProblemler.iml" filepath="$PROJECT_DIR$/InnerClasslarProblemler/InnerClasslarProblemler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" filepath="$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" filepath="$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" filepath="$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" />
