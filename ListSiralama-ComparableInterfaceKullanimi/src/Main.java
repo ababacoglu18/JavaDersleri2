@@ -1,8 +1,19 @@
 import java.util.*;
+import java.util.Comparator;
 
 public class Main {
 
-    static class Player implements Comparable<Player>{ //Implement Onemli 
+    //L134
+
+    static class BuyuktenKucugeString implements Comparator<String>{
+
+        @Override
+        public int compare(String o1, String o2) {
+            return -o1.compareTo(o2);  //BUYUKTEN KUCUGE SIRALAMASINI ISTIYORUZ BU YUZDEN BASINA - KOYMAN YETERLI
+        }                               //sadece bunu yapman gerekiyor. 
+    }
+
+    static class Player implements Comparable<Player>{ //Implement Onemli
         private  String isim;
         private int id;
 
@@ -29,7 +40,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        List<String > list1 = new ArrayList<String>();
+        List<String> list1 = new ArrayList<String>();
 
         list1.add("Java");
         list1.add("Php");
@@ -76,6 +87,15 @@ public class Main {
             System.out.println(p);
         }
 
+        System.out.println("************************************* Comparator ");
+
+        Collections.sort(list1, new BuyuktenKucugeString());
+
+        for (String s: list1){
+
+            System.out.println(s);
+        }
+        System.out.println("Basarili...");
 
     }
 }
