@@ -2,7 +2,7 @@ public class GelismisAbone {
 
     private String isim;
     private int bakiye = 120;
-    private String sehir;
+    private String sehir; //selam
 
     public GelismisAbone(String isim, int bakiye, String sehir){
 
