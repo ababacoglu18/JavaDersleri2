@@ -11,7 +11,7 @@ public class Main {
        try{ UcuncuFonksiyon();}
        catch (ArithmeticException e){
 
-               System.out.println("Bir sayi 0'a bolunemez.");  //Stack içinde herhangi bir yerde Exception yakalanmak zorundadır. 
+               System.out.println("Bir sayi 0'a bolunemez.");  //Stack içinde herhangi bir yerde Exception yakalanmak zorundadır.
 
        }
     }
