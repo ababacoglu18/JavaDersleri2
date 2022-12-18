@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Arrrays/Arrrays.iml" filepath="$PROJECT_DIR$/Arrrays/Arrrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beyblade/Beyblade.iml" filepath="$PROJECT_DIR$/Beyblade/Beyblade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" filepath="$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic2/Generic2.iml" filepath="$PROJECT_DIR$/Generic2/Generic2.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" filepath="$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" />
       <module fileurl="file://$PROJECT_DIR$/HafizaOyunu/HafizaOyunu.iml" filepath="$PROJECT_DIR$/HafizaOyunu/HafizaOyunu.iml" />
@@ -18,8 +19,10 @@
       <module fileurl="file://$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" filepath="$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" filepath="$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueYapisi/QueueYapisi.iml" filepath="$PROJECT_DIR$/QueueYapisi/QueueYapisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" filepath="$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/SehirTuru/SehirTuru.iml" filepath="$PROJECT_DIR$/SehirTuru/SehirTuru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Test/Test.iml" filepath="$PROJECT_DIR$/Polymorphism/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/VectorVeStackler/VectorVeStackler.iml" filepath="$PROJECT_DIR$/VectorVeStackler/VectorVeStackler.iml" />
       <module fileurl="file://$PROJECT_DIR$/foreach/foreach.iml" filepath="$PROJECT_DIR$/foreach/foreach.iml" />
     </modules>

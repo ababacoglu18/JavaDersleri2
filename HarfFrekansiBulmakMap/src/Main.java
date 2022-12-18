@@ -23,6 +23,9 @@ public class Main {
 
         }
 
+
+
+
         for (Map.Entry<Character,Integer> entry : frekans.entrySet()){
 
             System.out.println("Karakter: " + entry.getKey() + " " + entry.getValue() +" Kadar geciyor.");
