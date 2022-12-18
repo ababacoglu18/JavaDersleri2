@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreatingIterableClass/CreatingIterableClass.iml" filepath="$PROJECT_DIR$/CreatingIterableClass/CreatingIterableClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueYapisi/EmergencyService/EmergencyService.iml" filepath="$PROJECT_DIR$/QueueYapisi/EmergencyService/EmergencyService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" filepath="$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic2/Generic2.iml" filepath="$PROJECT_DIR$/Generic2/Generic2.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" filepath="$PROJECT_DIR$/GenericClasslar/GenericClasslar.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/HashMap/HashMapObjectUsingPractice/HashMapObjectUsingPractice.iml" filepath="$PROJECT_DIR$/HashMap/HashMapObjectUsingPractice/HashMapObjectUsingPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashsetDif/HashsetDif.iml" filepath="$PROJECT_DIR$/HashsetDif/HashsetDif.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClasslarProblemler/InnerClasslarProblemler.iml" filepath="$PROJECT_DIR$/InnerClasslarProblemler/InnerClasslarProblemler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/InnerFunctionsExceptionHandling/InnerFunctionsExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/InnerFunctionsExceptionHandling/InnerFunctionsExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" filepath="$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" />
