@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrrays/Arrrays.iml" filepath="$PROJECT_DIR$/Arrrays/Arrrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beyblade/Beyblade.iml" filepath="$PROJECT_DIR$/Beyblade/Beyblade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreatingIterableClass/CreatingIterableClass.iml" filepath="$PROJECT_DIR$/CreatingIterableClass/CreatingIterableClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueYapisi/EmergencyService/EmergencyService.iml" filepath="$PROJECT_DIR$/QueueYapisi/EmergencyService/EmergencyService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" filepath="$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" />
