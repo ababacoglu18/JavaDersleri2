@@ -30,6 +30,7 @@ public class Main {
                     i++;
                 }
                 else {
+                   writer.close();
                     break;
                 }
 
@@ -37,7 +38,7 @@ public class Main {
             }
 
         } catch (IOException e) {
-            System.out.println("Cannot Read the File Exception Error No: 522/800");
+            System.out.println("Cannot Read the File Exception Error No: 522");
         }
 
 
