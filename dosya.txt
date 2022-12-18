@@ -1,1 +1,5 @@
- TRY WITH RESOURCES TRY 
+ TRY WITH RESOURCES TRY Ali Ozan, İnşaat Mühendisliği 
+Mehmet Ali Cinkaya,Bilgisayar Mühendisliği
+Mehmet Ali Cinkaya,Bilgisayar Mühendisliği
+Mehmet Cinkaya,Bilgisayar Mühendisliği
+Mehmet Cinkaya,Bilgisayar Mühendisliğ
