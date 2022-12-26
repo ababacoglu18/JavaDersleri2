@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/SehirTuru/SehirTuru.iml" filepath="$PROJECT_DIR$/SehirTuru/SehirTuru.iml" />
       <module fileurl="file://$PROJECT_DIR$/SerializationAPI/SerializationAPI.iml" filepath="$PROJECT_DIR$/SerializationAPI/SerializationAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Test/Test.iml" filepath="$PROJECT_DIR$/Polymorphism/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputStream/TryWithResources/TryWithResources.iml" filepath="$PROJECT_DIR$/InputOutputStream/TryWithResources/TryWithResources.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputStream/UsingFileWriter/UsingFileWriter.iml" filepath="$PROJECT_DIR$/InputOutputStream/UsingFileWriter/UsingFileWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/VectorVeStackler/VectorVeStackler.iml" filepath="$PROJECT_DIR$/VectorVeStackler/VectorVeStackler.iml" />
