@@ -14,16 +14,18 @@ public Deneme() {
             selam.setText("Ahmet");
         }
     });
+
 }
 
     public static class Main {
         public static void main(String[] args) {
 
-           JFrame frame = new JFrame("Selam");
-       frame.setContentPane(new JPanel());
-       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-       frame.pack();
-       frame.setVisible(true);
+            Deneme frame = new Deneme();
+
+            frame = new JFrame();
+            frame.setTitle("Mancala");
+            frame.setSize(500,500);
+            frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 
             
