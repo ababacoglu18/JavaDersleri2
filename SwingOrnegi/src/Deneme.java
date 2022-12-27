@@ -19,6 +19,13 @@ public Deneme() {
     public static class Main {
         public static void main(String[] args) {
 
+           JFrame frame = new JFrame("Selam");
+       frame.setContentPane(new JPanel());
+       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+       frame.pack();
+       frame.setVisible(true);
+
+
             
 
         }
