@@ -4,12 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrrays/Arrrays.iml" filepath="$PROJECT_DIR$/Arrrays/Arrrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beyblade/Beyblade.iml" filepath="$PROJECT_DIR$/Beyblade/Beyblade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BirdenCokLockKullanimiveSyncSikintilari/BirdenCokLockKullanimiveSyncSikintilari.iml" filepath="$PROJECT_DIR$/BirdenCokLockKullanimiveSyncSikintilari/BirdenCokLockKullanimiveSyncSikintilari.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputStream/CopyingMP3Files/CopyingMP3Files.iml" filepath="$PROJECT_DIR$/InputOutputStream/CopyingMP3Files/CopyingMP3Files.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreatingIterableClass/CreatingIterableClass.iml" filepath="$PROJECT_DIR$/CreatingIterableClass/CreatingIterableClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputStream/DosyadanOkuyarakNotHesaplama/DosyadanOkuyarakNotHesaplama.iml" filepath="$PROJECT_DIR$/InputOutputStream/DosyadanOkuyarakNotHesaplama/DosyadanOkuyarakNotHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueYapisi/EmergencyService/EmergencyService.iml" filepath="$PROJECT_DIR$/QueueYapisi/EmergencyService/EmergencyService.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExecutorServiceveThreadHavuzlari/ExecutorServiceveThreadHavuzlari.iml" filepath="$PROJECT_DIR$/ExecutorServiceveThreadHavuzlari/ExecutorServiceveThreadHavuzlari.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputStream/FileReaderBufferedReaderBWriter/FileReaderBufferedReaderBWriter.iml" filepath="$PROJECT_DIR$/InputOutputStream/FileReaderBufferedReaderBWriter/FileReaderBufferedReaderBWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" filepath="$PROJECT_DIR$/FindingPalindromeWord/FindingPalindromeWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic2/Generic2.iml" filepath="$PROJECT_DIR$/Generic2/Generic2.iml" />
@@ -33,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" filepath="$PROJECT_DIR$/SarkicilarProjesi/SarkicilarProjesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/SehirTuru/SehirTuru.iml" filepath="$PROJECT_DIR$/SehirTuru/SehirTuru.iml" />
       <module fileurl="file://$PROJECT_DIR$/SerializationAPI/SerializationAPI.iml" filepath="$PROJECT_DIR$/SerializationAPI/SerializationAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads/Synchronized/Synchronized.iml" filepath="$PROJECT_DIR$/Threads/Synchronized/Synchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Test/Test.iml" filepath="$PROJECT_DIR$/Polymorphism/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Threads/Threads.iml" filepath="$PROJECT_DIR$/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputStream/TryWithResources/TryWithResources.iml" filepath="$PROJECT_DIR$/InputOutputStream/TryWithResources/TryWithResources.iml" />
