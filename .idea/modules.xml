@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayBlockingQueueConsumerProducerProblem/ArrayBlockingQueueConsumerProducerProblem.iml" filepath="$PROJECT_DIR$/ArrayBlockingQueueConsumerProducerProblem/ArrayBlockingQueueConsumerProducerProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrrays/Arrrays.iml" filepath="$PROJECT_DIR$/Arrrays/Arrrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beyblade/Beyblade.iml" filepath="$PROJECT_DIR$/Beyblade/Beyblade.iml" />
       <module fileurl="file://$PROJECT_DIR$/BirdenCokLockKullanimiveSyncSikintilari/BirdenCokLockKullanimiveSyncSikintilari.iml" filepath="$PROJECT_DIR$/BirdenCokLockKullanimiveSyncSikintilari/BirdenCokLockKullanimiveSyncSikintilari.iml" />
