@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayBlockingQueueConsumerProducerProblem/ArrayBlockingQueueConsumerProducerProblem.iml" filepath="$PROJECT_DIR$/ArrayBlockingQueueConsumerProducerProblem/ArrayBlockingQueueConsumerProducerProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrrays/Arrrays.iml" filepath="$PROJECT_DIR$/Arrrays/Arrrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing/BasitHesapMakinesi/BasitHesapMakinesi.iml" filepath="$PROJECT_DIR$/Swing/BasitHesapMakinesi/BasitHesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Beyblade/Beyblade.iml" filepath="$PROJECT_DIR$/Beyblade/Beyblade.iml" />
       <module fileurl="file://$PROJECT_DIR$/BirdenCokLockKullanimiveSyncSikintilari/BirdenCokLockKullanimiveSyncSikintilari.iml" filepath="$PROJECT_DIR$/BirdenCokLockKullanimiveSyncSikintilari/BirdenCokLockKullanimiveSyncSikintilari.iml" />
       <module fileurl="file://$PROJECT_DIR$/InputOutputStream/CopyingMP3Files/CopyingMP3Files.iml" filepath="$PROJECT_DIR$/InputOutputStream/CopyingMP3Files/CopyingMP3Files.iml" />
