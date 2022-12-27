@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" filepath="$PROJECT_DIR$/ListSiralama-ComparableInterfaceKullanimi/ListSiralama-ComparableInterfaceKullanimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Swing/OlmuyoAmaWebSayfasi/OlmuyoAmaWebSayfasi.iml" filepath="$PROJECT_DIR$/Swing/OlmuyoAmaWebSayfasi/OlmuyoAmaWebSayfasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" filepath="$PROJECT_DIR$/PackagesGiris/PackagesGiris.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueYapisi/QueueInterfaceAndPriorityQueue/QueueInterfaceAndPriorityQueue.iml" filepath="$PROJECT_DIR$/QueueYapisi/QueueInterfaceAndPriorityQueue/QueueInterfaceAndPriorityQueue.iml" />
